@@ -12,8 +12,8 @@
 
 ## Things I'll Do Next Week:
 
-- [ ] 
-- [ ]
+- [ ] Create Checkboxes
+- [x] Checkoff Checkboxes
 
 ## Fitness Goals Progress
 
