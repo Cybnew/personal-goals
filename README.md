@@ -1,8 +1,8 @@
-Personal Goals
+#Personal Goals
 
 
 
-Overarching Goals for 2018: Learn The Things
+##Overarching Goals for 2018: Learn The Things
 1.Python
 2.Ruby
 3.Premiere Pro
@@ -11,13 +11,13 @@ Overarching Goals for 2018: Learn The Things
 6.Work On DriftStitch
 
 
-[Date Normally Goes Here]
+##[Date Normally Goes Here]
 
-This Week's Focus: N/A
+##This Week's Focus: N/A
 
-Things I'll do This Week:
+##Things I'll do This Week:
 
-Things I'll Do in the Future:
+###Things I'll Do in the Future:
  Order Camera Equipment
  Create Website for DriftStitch
  Create Graphics for DriftStitch
